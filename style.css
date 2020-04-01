@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient( to right, #4d4c7d, #827397);
+    text-align: center;
+}
+
+.intro_text{
+    margin: 3% auto;
+}
+
+.main_input{
+    padding: 10%;
+    width: 80%;
+    margin: 7% auto 0;
+    background-image: linear-gradient( to right, #827397 , #413c69 );
+    border-radius: 25px;
+}
+
+.input_item{
+    margin: 3%;
+    color: #dcd6f7;
+}
+
+.result_section{
+    padding: 2%;
+}
+
+h1,h2{
+    font-family: 'Josefin Sans', sans-serif;
+    color: #dcd6f7;
+}
+
